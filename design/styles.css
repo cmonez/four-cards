@@ -37,14 +37,16 @@
 
 }
 
-#card2 {
-  border-top-color: hsl(0, 78%, 62%);
-}
 #card1 {
   border-top-color: hsl(180, 62%, 55%);
 }
+#card2 {
+  border-top-color: hsl(0, 78%, 62%);
+  margin-bottom: 5%;
+}
 #card3 {
   border-top-color: hsl(34, 97%, 64%);
+  margin-top: 5%;
 }
 #card4 {
   border-top-color: hsl(212, 86%, 64%);
