@@ -6,6 +6,10 @@
   justify-content: center;
 }
 
+#top-header{
+  margin-bottom: 10px;
+}
+
 #paragraph-container{
   width: 100%;
   justify-content: center;
