@@ -39,7 +39,11 @@
   border-radius: 6px;
   border-width: 5px 0 0 0;
   border-style: solid;
+}
 
+img {
+  position: relative;
+  float: right;
 }
 
 #card1 {
