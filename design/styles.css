@@ -13,3 +13,12 @@
   width: 95%;
   height: 500px;
 }
+
+.card {
+  background: white;
+  width: 100%;
+}
+
+.row {
+  width: 33%;
+}
