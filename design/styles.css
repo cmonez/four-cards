@@ -12,20 +12,23 @@
   background-color: pink;
   width: 95%;
   height: 500px;
+
 }
 
 .row {
   width: 33%;
+  align-items: center;
 }
 
 .outer-row{
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 
 .card{
-  width: 100%;
+  width: 95%;
   height: 45%;
   background: white;
   border-radius: 6px;
