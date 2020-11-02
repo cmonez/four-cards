@@ -22,3 +22,8 @@
 .row {
   width: 33%;
 }
+
+.card{
+  width: 100%;
+  background: blue;
+}
