@@ -44,6 +44,7 @@
 img {
   position: relative;
   float: right;
+  margin-right: 10%;
 }
 
 #card1 {
